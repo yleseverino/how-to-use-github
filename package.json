@@ -4,13 +4,15 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "node ./src/main.js",
+    "test": "jest"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^7.2.0",
     "eslint-config-airbnb": "^18.1.0",
     "eslint-plugin-import": "^2.20.2",
+    "jest": "^26.0.1",
     "nodemon": "^2.0.4"
   },
   "dependencies": {

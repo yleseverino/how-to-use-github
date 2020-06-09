@@ -17,9 +17,11 @@ jobs:
         node-version: '12.x'
 
     - name: Install dependencies
-      run: |
-        npm install
-        npm run build --if-present
-        npm test
-        npm lint
+      run: npm install
+
+    - name: Tests
+      run: yarn test
+   
+    - name: Check lint
+      run: yarn lint
 

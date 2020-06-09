@@ -1,5 +1,3 @@
-const mult = (a, b) => {
-  return a*b
-};
+const mult = (a, b) => a * b;
 
 module.exports = mult;

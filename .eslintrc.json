@@ -8,7 +8,6 @@
   "extends": "airbnb",
   "rules": {
     "jsx-quotes": ["error", "prefer-single"],
-    "quotes": ["error", "single"],
     "react/jsx-filename-extension": [
       "error",
       {
@@ -29,7 +28,6 @@
     "react/button-has-type": "off",
     "global-require": "off",
     "import/prefer-default-export": "off",
-    "no-unused-expressions": ["error", { "allowTaggedTemplates": true }],
-    "arrow-body-style": ["error", "always"],
+    "no-unused-expressions": ["error", { "allowTaggedTemplates": true }]
   }
 }

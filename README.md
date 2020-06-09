@@ -2,7 +2,7 @@
 Criar um repositório para aprender a trabalhar em equipe. Para isso vamos desenvolver uma aplicação em nodejs, mas ela será extremamente simples.
 
 # Instalações
-
+DJÇSAJKSJA
 - [node](https://nodejs.org/en/)
 
 Para instalar as dependências, rode o comando

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1591695912456" clover="3.2.0">
-  <project timestamp="1591695912456" name="All files">
-    <metrics statements="15" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="18" coveredelements="12" complexity="0" loc="15" ncloc="15" packages="1" files="4" classes="4"/>
+<coverage generated="1591700927711" clover="3.2.0">
+  <project timestamp="1591700927711" name="All files">
+    <metrics statements="13" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3" elements="16" coveredelements="10" complexity="0" loc="13" ncloc="13" packages="1" files="4" classes="4"/>
     <file name="exp.js" path="/home/lucas/github/how-to-use-github/src/exp.js">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
@@ -18,16 +18,14 @@
       <line num="7" count="0" type="stmt"/>
     </file>
     <file name="mult.js" path="/home/lucas/github/how-to-use-github/src/mult.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
     <file name="sum.js" path="/home/lucas/github/how-to-use-github/src/sum.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>

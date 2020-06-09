@@ -1,5 +1,3 @@
-const exp = (a, b) => {
-  return a**b
-};
+const exp = (a, b) => a ** b;
 
 module.exports = exp;

@@ -2,7 +2,7 @@
 how to use github as a group
 
 # Objetivo
-Criar um repositório para aprender a trabalhar em equipe. Para isso vamos desenvolver uma aplicação em nodejs, mas ela será extremamente simples.
+Criar um repositório para aprender a trabalhar em equipe. Para isso vamos desenvolver uma aplicação em nodejs, mas ela será extremamente simples..
 
 # Instalações
 

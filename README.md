@@ -52,8 +52,9 @@ objetivo, é duas pessoas mexerem no mesmo código
 
 Oi mundo!
 denovo
-
-- lucas: resolver isso
+denovo
+denovo
+ lucas: resolver isso
 
 # Dar rollback no commit
 >>>>>>> 53e773acaf60489fc6bac9ca5e0a822aaea8d82f

@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 # how-to-use-github
 how to use github as a group
 
-## GOGO powerangers!!
-=======
 # Objetivo
 Criar um repositório para aprender a trabalhar em equipe. Para isso vamos desenvolver uma aplicação em nodejs, mas ela será extremamente simples.
 
